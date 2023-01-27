@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Ben Saucedo's Blog: Hello All! Welcome to my page :)
 ---
 
